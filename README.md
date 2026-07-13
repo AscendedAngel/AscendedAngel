@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently university applicant, study programming and web-development myself.<br>🖥️
+🌱 I’m currently university applicant, study programming and web-development myself. 🖥️
 
 # 💘 The projects I am proud:
 - [Library App](https://github.com/AscendedAngel/LibraryApp.Server)
