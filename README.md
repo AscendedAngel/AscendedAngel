@@ -7,7 +7,7 @@
 - [Library App](https://github.com/AscendedAngel/LibraryApp.Server)
 - [Recipe Website (for school project)](https://github.com/AscendedAngel/RecipeWebsite)
 - [Microservice Experiment with K8s deployment](https://github.com/AscendedAngel/MicroserviceExperiment)
-- [University Competition List Scrapper & Optimizer](https://github.com/AscendedAngel/VuzScrapper) **(W. I. P)**
+- [University Competition List Scrapper & Optimizer](https://github.com/AscendedAngel/VuzScrapper)
 
 
 ## 🌐 Socials:
