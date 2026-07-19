@@ -8,7 +8,7 @@
 - [Recipe Website (for school project)](https://github.com/AscendedAngel/RecipeWebsite)
 - [Microservice Experiment with K8s deployment](https://github.com/AscendedAngel/MicroserviceExperiment)
 - [University Competition List Scrapper & Optimizer](https://github.com/AscendedAngel/VuzScrapper)
-- [JWT Refresh Token Experiment (with CI/CD)](https://github.com/AscendedAngel/RefreshTokenExperiment) ***(W.I.P)***
+- [JWT Refresh Token Experiment (with CI/CD)](https://github.com/RefreshTokenExperiment/RefreshTokenExperiment) ***(W.I.P)***
 
 
 ## 🌐 Socials:
